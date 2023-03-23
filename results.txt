@@ -1,0 +1,9 @@
+dataset1.txt
+Bag of words: data
+Most Common Noun: data
+LDA Model Results: [(0, '0.048*"data" + 0.036*"big" + 0.013*"i" + 0.013*"term" + 0.012*"large"'), (1, '0.048*"data" + 0.029*"big" + 0.017*"the" + 0.016*"term" + 0.013*"like"'), (2, '0.048*"data" + 0.025*"big" + 0.024*"i" + 0.016*"computer" + 0.013*"one"')]
+
+dataset3.txt
+Bag of words: I
+Most Common Noun: family
+LDA Model Results: [(0, '0.036*"family" + 0.033*"i" + 0.018*"jewish" + 0.013*"discovering" + 0.012*"grandparents"'), (1, '0.041*"i" + 0.033*"family" + 0.015*"came" + 0.014*"finding" + 0.013*"together"'), (2, '0.030*"i" + 0.021*"family" + 0.020*"ancestors" + 0.014*"talked" + 0.012*"jewish"')]

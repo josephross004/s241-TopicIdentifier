@@ -1,33 +1,33 @@
 For the first time in three weeks, my brother finally came home to visit the family. 
-He’s in college now, but he lives only 40 miles away, so every now and then he comes home to do laundry, relax for the weekend, and play some basketball with me. 
-This past weekend was no different – as usual, he pulled into the driveway at around 5:00 on Friday, and that night, we stayed up late just hanging out and talking in his room.
+Hes in college now, but he lives only 40 miles away, so every now and then he comes home to do laundry, relax for the weekend, and play some basketball with me. 
+This past weekend was no different as usual, he pulled into the driveway at around 500 on Friday, and that night, we stayed up late just hanging out and talking in his room.
 One point that came up in the conversation was how sometimes people will mask a lack of knowledge with ambiguous language instead of admitting that they are completely clueless. 
 The first example that came up was the concept of Big Data, a computer term that is thrown around often in regular conversation. 
-When people talk about high-speed computers, cloud storage, or anything of the sort, the term Big Data comes up more than necessary. 
+When people talk about high speed computers, cloud storage, or anything of the sort, the term Big Data comes up more than necessary. 
 I decided to test our prediction a little bit by looking up the definition of Big Data.
 The Wikipedia entry, and almost all dictionaries, describe Big Data as a field of computer science or a computer science concept that involves the analysis and storage of an inconceivably large amount of data. 
-Big Data, in layman’s terms, is just a large set of regular data. 
-From what I can understand, it’s used in all the same ways as regular data – it can’t be plugged into Excel, per se, but it can be broken down into smaller chunks and dealt with by regular database tools, just like any smaller set of data. 
-It’s the exact same thing, but with a special name.
+Big Data, in laymans terms, is just a large set of regular data. 
+From what I can understand, its used in all the same ways as regular data it cant be plugged into Excel, per se, but it can be broken down into smaller chunks and dealt with by regular database tools, just like any smaller set of data. 
+Its the exact same thing, but with a special name.
 The challenges for a field such as Big Data include storage, analysis, sharing, and visualization. 
-Sure, I can’t store all of Google on a flash drive, but the data that Google has is no different from the ones and zeros on my computer, except in quantity. 
-Traditional software can’t process Big Data sets because they’re just too large. 
+Sure, I cant store all of Google on a flash drive, but the data that Google has is no different from the ones and zeros on my computer, except in quantity. 
+Traditional software cant process Big Data sets because theyre just too large. 
 In order to process Big Data, companies use tools to break data sets into smaller, more operable pieces. 
-It’s ultimately the same process as with any other set of data – Big Data takes the same input and uses the same digital tools. 
-What is the purpose of a term like Big Data? The only noticeable difference between Big Data and regular data is the size, and regular data comes in all different sizes – despite the fact that there is no such thing as Small Data.
+Its ultimately the same process as with any other set of data Big Data takes the same input and uses the same digital tools. 
+What is the purpose of a term like Big Data? The only noticeable difference between Big Data and regular data is the size, and regular data comes in all different sizes despite the fact that there is no such thing as Small Data.
 A term like this stands out to me. 
 It sounds smart on the surface, but once deconstructed, it turns out to be mostly fluff. 
 Big Data is a strange sounding way to talk about data sets that are too large to be computed normally. 
 For example: on the Cambridge Dictionary web page, one example sentence for the use of the term Big Data is: 
-“The rise of Big Data resulted in many traditional data warehousing companies updating their products and technology.” 
-Big Data, as it has been defined, is used correctly in this sentence, but an additional layer of complexity such as “Big Data” makes this sentence impossible for someone to decipher without context. 
-The sentence could have been written more along the lines of “The increasing size of available digital data sets resulted in…” or “The expansion of computer data sets in the digital age resulted in…” instead of obscuring actual meaning with a filler term like Big Data.
-In all honesty, I want to be able to talk to a computer science professor about the advent of this so-called Big Data. 
+The rise of Big Data resulted in many traditional data warehousing companies updating their products and technology. 
+Big Data, as it has been defined, is used correctly in this sentence, but an additional layer of complexity such as Big Data makes this sentence impossible for someone to decipher without context. 
+The sentence could have been written more along the lines of The increasing size of available digital data sets resulted in or The expansion of computer data sets in the digital age resulted in instead of obscuring actual meaning with a filler term like Big Data.
+In all honesty, I want to be able to talk to a computer science professor about the advent of this so called Big Data. 
 I have a significant amount of respect for the computer industry, and I one day hope to pursue a career in something similar.
-Furthermore, I can almost guarantee that Big Data has a deeper meaning besides the shallow one I’ve been able to unearth. 
-That being said, in my opinion, the use of the term Big Data causes unnecessary complexity in an industry that is so laser-focused on making analytical processes as efficient as possible. 
+Furthermore, I can almost guarantee that Big Data has a deeper meaning besides the shallow one Ive been able to unearth. 
+That being said, in my opinion, the use of the term Big Data causes unnecessary complexity in an industry that is so laser focused on making analytical processes as efficient as possible. 
 If I could just get an explanation of why the term serves a purpose, I would be satisfied.
-And although idealistic, maybe we could learn to live in a world where we don’t have to always pretend that we’re right. 
-Big Data might actually mean something, but there is still validity to my brother’s point – people can use ambiguous, high-level diction to mask a lack of understanding. 
-Furthermore, people use the same high-level diction to sound smarter than they really are – it is logically easier to convince someone of something when they have no idea what is going on. If we weren’t so stubborn, maybe one day we all could learn to admit when we’re wrong, because being wrong is okay – nobody knows everything. 
+And although idealistic, maybe we could learn to live in a world where we dont have to always pretend that were right. 
+Big Data might actually mean something, but there is still validity to my brothers point people can use ambiguous, high level diction to mask a lack of understanding. 
+Furthermore, people use the same high level diction to sound smarter than they really are it is logically easier to convince someone of something when they have no idea what is going on. If we werent so stubborn, maybe one day we all could learn to admit when were wrong, because being wrong is okay nobody knows everything. 
 After all, the only way to be able to store all available human knowledge would be in a set of Big Data, and I have yet to come across someone who knows what that means. 
